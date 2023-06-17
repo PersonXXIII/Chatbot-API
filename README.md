@@ -12,13 +12,14 @@ Al-Siraj is an Islamic chatbot. Which is built to handle the queries of Children
 > Python (3.11).
 #
 **LIBRARIES**
-> Tensorflow.<br>
 > Flask.<br>
 > Flask-restful.<br>
+> Google Cloud Translate.<br>
+> Json.<br>
 > Keras.<br>
-> Scikit-Learn.<br>
-> google-cloud-translate.<br>
 > Numpy.<br>
+> Scikit-Learn.<br>
+> Tensorflow.
 #
 **MODEL**
 > LSTM (Long Short Term Memory).<br><br>
