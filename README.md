@@ -5,7 +5,7 @@
 Al-Siraj is an Islamic chatbot. Which is built to handle the queries of Children (Age: <14). It consists of basic Islamic queries which can help them understand more about Islam. As the queries are basic knowledge, which also can help non-muslims to get knowledge about Islam. The API can get input in two languages only, Urdu and English. More languages can be added accordingly.<br>
 **NOTE:** This is the **API** of the chatbot.<br>
 **Input Langugaes:** 
-> Urdu.
+> Urdu.<br>
 > English.<br>
 #
 **LANGUAGES**
@@ -30,6 +30,6 @@ Created in json format.<br>
 **Intents:** 2000+<br>
 **Queries:** 8500+<br>
 #
-**USED APIs**<br>
+**OTHER USED APIs**<br>
 **Google Translate API:<br>**
 To use the API you need a Json key. Which can be obtained from  [Gcloud Platform](https://console.cloud.google.com).
