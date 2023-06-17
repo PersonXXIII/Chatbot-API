@@ -1,0 +1,8 @@
+steps:
+- name: 'gcr.io/cloud-builders/gcloud'
+  entrypoint: 'bash'
+  args:
+  - '-c'
+  - |
+    gcloud config set app/cloud_build_timeout 18000 && gcloud app deploy
+timeout: 18000s

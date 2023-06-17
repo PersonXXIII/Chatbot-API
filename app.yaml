@@ -1,0 +1,15 @@
+runtime: python
+env: flex
+entrypoint: gunicorn -b :$PORT main:app
+
+runtime_config:
+  python_version: 3.7
+  requirements_path: requirements.txt
+
+
+handlers:
+- url: /.*
+  script: auto
+
+- url: /templates
+  static_dir: templates
