@@ -4,6 +4,13 @@
 **AI Type:** Supervised AI.<br>
 Al-Siraj is an Islamic chatbot. Which is built to handle the queries of Children (Age: <14). It consists of basic Islamic queries which can help them understand more about Islam. As the queries are basic knowledge, which also can help non-muslims to get knowledge about Islam. The API can get input in two languages only, Urdu and English. More languages can be added accordingly.<br>
 **NOTE:** This is the **API** of the chatbot.<br>
+#
+**Versions:** <br>
+01: Main.py: <br>
+This version uses a Google Translate API to take and response user in multiple languages. Currently the code is done for two languages only.<br>
+02: Main (Without Translate).py: <br>
+This version is without the Google Translate API. It takes input and gives responses only in english. <br>
+#
 **Input Langugaes:** 
 > Urdu.<br>
 > English.<br>
