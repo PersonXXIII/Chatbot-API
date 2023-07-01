@@ -7,9 +7,9 @@ Al-Siraj is an Islamic chatbot. Which is built to handle the queries of Children
 #
 **Versions:** <br>
 **01: Main.py:** <br>
-        This version uses a Google Translate API to take and response user in multiple languages. Currently the code is done for two languages only.<br>
+This version uses a Google Translate API to take and response user in multiple languages. Currently the code is done for two languages only.<br><br>
 **02: Main (Without Translate).py:** <br>
-        This version is without the Google Translate API. It takes input and gives responses only in english. <br>
+This version is without the Google Translate API. It takes input and gives responses only in english. <br>
 #
 **Input Langugaes:** 
 > Urdu.<br>
