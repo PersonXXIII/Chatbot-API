@@ -30,7 +30,7 @@ This version is without the Google Translate API. It takes input and gives respo
 #
 **MODEL**
 > LSTM (Long Short Term Memory).<br><br>
-**NOTE:** The Model (LSTM) is imported in this API. Because, The extracted/saved model is used at a certain accuracy. Which doesn't requires as much computational power as in training. The Model was trained in [Training Model](https://github.com/PersonXXIII/Chatbot-Training-Model).  <br>"The [Training Model](https://github.com/PersonXXIII/Chatbot-Training-Model) is only accessible by people with an access. Contact the owner to get the access to the repository."<br>
+**NOTE:** The Model (LSTM) is imported in this API. Because, The extracted/saved model is used at a certain accuracy. Which doesn't requires as much computational power as in training. The Model was trained in [Training Model](https://github.com/PersonXXIII/Chatbot-Training-Model).  <br>
 The Trained model: [Trained Model](https://github.com/PersonXXIII/Chatbot-Trained-Model/).
 #
 **DATASET<br>**
